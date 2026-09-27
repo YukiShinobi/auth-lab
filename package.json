@@ -1,0 +1,12 @@
+{
+  "name": "auth-lab",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Authentication reference app with password hashing, sessions, RBAC and revocation.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
