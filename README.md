@@ -59,3 +59,10 @@ The in-memory stores are deliberate for this reference build. A production versi
 ---
 
 <div align="center"><sub>YukiShinobi // authentication is a system, not a login form.</sub></div>
+
+
+## Scope and maintenance — October 2026
+
+A focused auth-security lab, not a production authentication provider. Use its tests to study session revocation, role checks and access control, and perform an independent security review before reuse.
+
+These repositories document individual experiments or products. A README describes the codebase but is not a claim of independently verified production availability. For current flagship work see [Project Creation](https://github.com/YukiShinobi/project-creation), [Veyra](https://github.com/YukiShinobi/YukiShinobi-veyra), and [Simply Management](https://github.com/YukiShinobi/SIMPLYMANAGEMENT-WEBSITE).
